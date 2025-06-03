@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e155e06e-3a4a-4314-b956-dc08a05f3d01" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu.aseprite" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu.aseprite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu10.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu10.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu11.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu11.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu12.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu13.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu14.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu14.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu15.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu16.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu17.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu18.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu18.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu19.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu19.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu20.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu20.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu21.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu21.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu22.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu22.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu23.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu23.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu24.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu24.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu25.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu25.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu26.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu26.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu27.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu27.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu28.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu28.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu29.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu29.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu30.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu30.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu31.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu31.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu32.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu32.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu6.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu6.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu7.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu7.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu8.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu8.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu9.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu9.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/santos_loop/image_data.h" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/santos_loop/image_data.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmp_to_c_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/bmp_to_c_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arduino/santos_loop/image_data.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TSGouveia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TSGouveia/MESA_LEDS_SANTOS_2025.git&quot;,
+    &quot;accountId&quot;: &quot;078ecd04-1a4b-4abf-b284-1adbc5198426&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -65,11 +49,35 @@
       <recent name="C:\Users\LazyT\Documents\Unity Projects\MESA_LEDS_SANTOS_2025\Arduino\santos_loop" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="bmp_to_c_array" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bmp_to_c_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
