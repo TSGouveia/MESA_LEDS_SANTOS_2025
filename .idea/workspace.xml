@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e155e06e-3a4a-4314-b956-dc08a05f3d01" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu.aseprite" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu.aseprite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu10.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu10.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu11.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu11.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu12.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu12.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu13.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu13.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu14.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu14.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu15.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu15.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu16.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu16.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu17.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu17.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu18.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu18.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu19.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu19.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu20.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu20.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu21.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu21.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu22.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu22.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu23.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu23.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu24.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu24.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu25.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu25.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu26.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu26.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu27.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu27.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu28.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu28.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu29.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu29.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu30.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu30.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu31.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu31.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu32.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu32.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu6.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu6.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu7.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu7.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu8.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu8.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animations/Menu/Menu9.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/Animations/Menu/Menu9.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arduino/santos_loop/image_data.h" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/santos_loop/image_data.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmp_to_c_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/bmp_to_c_array.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xx9QyJzRAn8yL7PxnEgXMATSne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bmp_to_c_array.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LazyT\Documents\Unity Projects\MESA_LEDS_SANTOS_2025\Arduino\santos_loop" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
+        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e155e06e-3a4a-4314-b956-dc08a05f3d01" name="Changes" comment="" />
+      <created>1748868845830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748868845830</updated>
+      <workItem from="1748868848085" duration="63000" />
+      <workItem from="1748870880084" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bmp_to_c_array_py$bmp_to_c_array.coverage" NAME="bmp_to_c_array Coverage Results" MODIFIED="1748870892541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MESA_LEDS_SANTOS_2025$bmp_to_c_array.coverage" NAME="bmp_to_c_array Coverage Results" MODIFIED="1748868867009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

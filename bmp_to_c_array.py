@@ -115,7 +115,7 @@ if __name__ == "__main__":
     # Solicitar nome do arquivo de saída
     output_file_input = input(f"Digite o nome do arquivo .h de saída (padrão: image_data.h): ").strip()
     if not output_file_input:
-        output_file_input = "image_data.h"
+        output_file_input = "Arduino/santos_loop/image_data.h"
     elif not output_file_input.lower().endswith(".h"):
         output_file_input += ".h"  # Garante a extensão .h
 
