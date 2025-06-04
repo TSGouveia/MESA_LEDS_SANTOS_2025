@@ -21,7 +21,7 @@
 #define NEEC_SEQUENCE_LOOP_COUNT         4
 
 #define OTHER_SEQUENCES_FRAME_DURATION_MS 100
-#define OTHER_SEQUENCES_LAST_FRAME_HOLD_MS 2000
+#define OTHER_SEQUENCES_LAST_FRAME_HOLD_MS 3000
 
 #include "image_data.h" // Contém os arrays _anim e as defines _ANIM_NUM_FRAMES
 
