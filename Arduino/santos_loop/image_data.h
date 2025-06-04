@@ -4,13 +4,13 @@
 #include <FastLED.h>    // Para CRGB
 #include <avr/pgmspace.h> // Para PROGMEM
 
-// Dimensões da Matriz (usadas na geração destes dados)
-// Certifique-se que seu código Arduino usa MATRIX_WIDTH 32 e MATRIX_HEIGHT 18
+// Dimensï¿½es da Matriz (usadas na geraï¿½ï¿½o destes dados)
+// Certifique-se que seu cï¿½digo Arduino usa MATRIX_WIDTH 32 e MATRIX_HEIGHT 18
 // #define MATRIX_WIDTH   32
 // #define MATRIX_HEIGHT  18
 #define NUM_PIXELS_GENERATED (32 * 18) // 576
 
-// Animação da sequência: Batata
+// Animaï¿½ï¿½o da sequï¿½ncia: Batata
 #define BATATA_ANIM_NUM_FRAMES 32
 const PROGMEM CRGB Batata_anim[BATATA_ANIM_NUM_FRAMES][576] = {
   { // Frame 0 (Batata1.bmp)
@@ -2383,7 +2383,7 @@ const PROGMEM CRGB Batata_anim[BATATA_ANIM_NUM_FRAMES][576] = {
   }
 };
 
-// Animação da sequência: Bifana
+// Animaï¿½ï¿½o da sequï¿½ncia: Bifana
 #define BIFANA_ANIM_NUM_FRAMES 32
 const PROGMEM CRGB Bifana_anim[BIFANA_ANIM_NUM_FRAMES][576] = {
   { // Frame 0 (Bifana1.bmp)
@@ -4756,7 +4756,7 @@ const PROGMEM CRGB Bifana_anim[BIFANA_ANIM_NUM_FRAMES][576] = {
   }
 };
 
-// Animação da sequência: Cachorro
+// Animaï¿½ï¿½o da sequï¿½ncia: Cachorro
 #define CACHORRO_ANIM_NUM_FRAMES 34
 const PROGMEM CRGB Cachorro_anim[CACHORRO_ANIM_NUM_FRAMES][576] = {
   { // Frame 0 (Cachorro1.bmp)
@@ -7277,7 +7277,7 @@ const PROGMEM CRGB Cachorro_anim[CACHORRO_ANIM_NUM_FRAMES][576] = {
   }
 };
 
-// Animação da sequência: Menu
+// Animaï¿½ï¿½o da sequï¿½ncia: Menu
 #define MENU_ANIM_NUM_FRAMES 32
 const PROGMEM CRGB Menu_anim[MENU_ANIM_NUM_FRAMES][576] = {
   { // Frame 0 (Menu1.bmp)
@@ -9650,7 +9650,7 @@ const PROGMEM CRGB Menu_anim[MENU_ANIM_NUM_FRAMES][576] = {
   }
 };
 
-// Animação da sequência: NEEC
+// Animaï¿½ï¿½o da sequï¿½ncia: NEEC
 #define NEEC_ANIM_NUM_FRAMES 2
 const PROGMEM CRGB NEEC_anim[NEEC_ANIM_NUM_FRAMES][576] = {
   { // Frame 0 (NEEC1.bmp)

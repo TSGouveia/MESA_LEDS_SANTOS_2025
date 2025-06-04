@@ -145,6 +145,17 @@ void loop() {
     );
   #endif
 
+    // --- Reproduzir Animação Bifana ---
+  #ifdef CACHORRO_ANIM_NUM_FRAMES
+    playAnimationSequence(
+        Cachorro_anim,
+        CACHORRO_ANIM_NUM_FRAMES,
+        OTHER_SEQUENCES_FRAME_DURATION_MS,
+        OTHER_SEQUENCES_LAST_FRAME_HOLD_MS,
+        1
+    );
+  #endif
+
   // --- Reproduzir Animação Batata ---
   #ifdef BATATA_ANIM_NUM_FRAMES
     playAnimationSequence(
